@@ -12,6 +12,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'normalize-rails'
 gem 'autoprefixer-rails'
 gem 'slim-rails'
+gem 'inline_svg'
 
 group :development, :test do
   gem 'byebug', platform: :mri
